@@ -1,5 +1,5 @@
-<h1 align="Overview">
-  center aligned text
+<h1 align="center">
+  Overview
 </h1>
 
 Data were collected using a blank form, then converted to electronic form, and merged into one using Python(code).The initial analysis contains comments inside the Jupyter notebook (code). After saving the merged file (attached in this repo), the following changes were made to conduct some additional analysis (Dashboards):
