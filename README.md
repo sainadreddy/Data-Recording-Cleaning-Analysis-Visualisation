@@ -15,10 +15,10 @@ You have slicers to filter the graphs representing the count of electric and non
 
 Below are snap shots of 2 dashboards:
 
-1. With Duplicates
+* With Duplicates
 
 ![image](https://github.com/sainadreddy/Data-Recording-Cleaning-Analysis-Visualisation/assets/63005649/53fcd434-6da3-47cb-a215-60f8ba40a80d)
 
-2. Without duplicates
+* Without duplicates
 
 ![image](https://github.com/sainadreddy/Data-Recording-Cleaning-Analysis-Visualisation/assets/63005649/6939b126-d883-4c93-bc0f-7fd8238c847d)
