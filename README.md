@@ -11,7 +11,7 @@ Data were collected using a blank form, then converted to electronic form, and m
 You have slicers to filter the graphs representing the count of electric and non-electric vehicles, count of vehicles for each brand, percentage of electric and non-electric in each type of vehicle, public and private transport counts, and finally, a glimpse of male and female drivers.
 
 >[!IMPORTANT]
-> Added Additonal data file which answers the qeestions mentioned in code file.
+> Added Additonal data file which answers the qeuestions mentioned in code file.
 
 Below are snap shots of 2 dashboards:
 
@@ -25,4 +25,4 @@ Below are snap shots of 2 dashboards:
 
 >[!Note]
 > You can only view the percentage when one type of vehicle is selected.
->As menioned in file(code) just see infograph as design rather than data in it.
+> As menioned in file(code) just see infograph as design rather than data in it.
