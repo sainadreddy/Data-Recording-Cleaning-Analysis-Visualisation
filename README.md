@@ -2,5 +2,4 @@ The initial analysis contains comments inside the jupyter notebook(code). After 
 
 1. Removed all the columns that seemed unnecessary for this dashboard.
 2. Changed all the genders to male or female instead of male,m, female,f.
-   
 3.Changed all transport types to Public or Private instead of yes, no, public, private.
