@@ -2,7 +2,7 @@
   Overview
 </h1>
 
-Data were collected using a blank form, then converted to electronic form, and merged into one using Python(code).The initial analysis contains comments inside the Jupyter notebook (code). After saving the merged file (attached in this repo), the following changes were made to conduct some additional analysis (Dashboards):
+Data were collected using a blank form, then converted to electronic form, and merged into one using Python(code).The initial analysis contains comments inside the Jupyter Notebook (code). After saving the merged file (attached in this repo), the following changes were made to conduct some additional analysis (Dashboards):
 
 1. Removed all the columns that seemed unnecessary for this dashboard.
 2. Changed all the genders to male or female instead of male,m, female,f.
