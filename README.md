@@ -2,18 +2,18 @@
   Overview
 </h1>
 
-Data were collected using a blank form, then converted to electronic form, and merged into one using Python(code).The initial analysis contains comments inside the Jupyter Notebook (code). After saving the merged file (attached in this repo), the following changes were made to conduct some additional analysis (Dashboards):
+Data were collected using a blank form, then converted to electronic form, and merged into one using Python(code). The initial analysis contains comments inside the Jupyter Notebook (code). After saving the merged file (attached in this repo), the following changes were made to conduct some additional analysis (Dashboards):
 
 1. Removed all the columns that seemed unnecessary for this dashboard.
 2. Changed all the genders to male or female instead of male,m, female,f.
 3. Changed all transport types to Public or Private instead of yes, no, public, private.
    
-You have slicers to filter the graphs representing the count of electric and non-electric vehicles, count of vehicles for each brand, percentage of electric and non-electric in each type of vehicle, public and private transport counts, and finally, a glimpse of male and female drivers.
+You have slicers to filter the graphs representing the count of electric and non-electric vehicles, the count of vehicles for each brand, the percentage of electric and non-electric in each type of vehicle, public and private transport counts, and finally, a glimpse of male and female drivers.
 
 >[!IMPORTANT]
-> Added Additonal data file which answers the qeuestions mentioned in code file.
+> Added Additional data file that answers the questions mentioned in the code file.
 
-Below are snap shots of 2 dashboards:
+Below are snapshots of 2 dashboards:
 
 * With Duplicates
 
@@ -25,4 +25,4 @@ Below are snap shots of 2 dashboards:
 
 >[!Note]
 > You can only view the percentage when one type of vehicle is selected.
-> As menioned in file(code) just see infograph as design rather than data in it.
+> As mentioned in a file(code) see infograph as design rather than data in it.
